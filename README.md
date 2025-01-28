@@ -1,4 +1,4 @@
-## Productos API - NestJS
+## Login - NestJS
 
 Una API RESTful básica para realizar un login con JWT, desarrollada con [NestJS](https://nestjs.com/). 
 
